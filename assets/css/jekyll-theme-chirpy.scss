@@ -1,6 +1,6 @@
 ---
 ---
-@use 'variables' as v;
+
 @use 'main
 {%- if jekyll.environment == 'production' -%}
   .bundle
