@@ -1,6 +1,6 @@
 ---
 ---
-
+@use 'variables' as v;
 @use 'main
 {%- if jekyll.environment == 'production' -%}
   .bundle
@@ -22,3 +22,20 @@
 //   text-align: center;
 //   border-bottom: 9px;
 // }
+
+.furnishing{
+  font-size: 1.05rem;
+  color: var(--heading-color);
+  font-weight: 400;
+  font-family: v.$font-family-heading;
+  scroll-margin-top: 3.5rem;
+}
+
+.talent, .constell, .outfit{
+  font-size: 1.18rem;
+  color: var(--heading-color);
+  font-weight: 400;
+  font-family: v.$font-family-heading;
+  scroll-margin-top: 3.5rem;
+}
+
