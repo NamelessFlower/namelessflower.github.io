@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  # bio              : "I am an **amazing** person."
+  # location         : "Somewhere"
   email            :
   links:
     - label: "Email"
@@ -318,10 +318,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
+      show_date: true
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
       sidebar:
-        nav: "main"
+        nav: "categories"
