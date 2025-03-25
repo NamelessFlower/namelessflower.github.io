@@ -3,7 +3,7 @@ title: "Character"
 layout: category
 permalink: /character/
 author_profile: false
-taxonomy: Character
+taxonomy: character
 sidebar:
   nav: "categories"
 ---
