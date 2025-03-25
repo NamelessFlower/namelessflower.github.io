@@ -11,8 +11,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-# categories:
-#   - title: "Character"
-#     url: /categories/character/
-#   - title: "Weapon"
-#     url: /categories/weapon/
+categories:
+  - title: "Character"
+    url: /character/
+  # - title: "Weapon"
+  #   url: /categories/weapon/
