@@ -1,9 +1,9 @@
 ---
 title: "Character"
 layout: category
-permalink: /categories/character/
+permalink: /character/
 author_profile: false
 taxonomy: Character
 sidebar:
-  nav: "main"
+  nav: "categories"
 ---
