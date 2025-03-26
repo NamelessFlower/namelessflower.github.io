@@ -327,7 +327,7 @@ defaults:
       sidebar:
         nav: "categories"
   - scope:
-      path: "_posts/character/"
+      path: "_posts/character"
       type: posts
     values:
       toc: true
