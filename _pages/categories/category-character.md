@@ -1,5 +1,5 @@
 ---
-title: "Character"
+title: "캐릭터"
 layout: category
 permalink: /character/
 author_profile: false

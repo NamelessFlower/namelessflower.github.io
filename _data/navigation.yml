@@ -12,7 +12,16 @@ main:
   #   url: /sitemap/
 
 categories:
-  - title: "Character"
+  - title: "캐릭터"
     url: /character/
+  - title: "임무"
+    url: /quest/
+    children:
+    - title: "마신 임무"
+      url: /archonquest/
+    - title: "전설 임무"
+      url: /storyquest/
+    - title: "월드 임무"
+      url: /worldquest/
   # - title: "Weapon"
   #   url: /categories/weapon/
